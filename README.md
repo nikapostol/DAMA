@@ -1,2 +1,2 @@
 # DAMA
-Exercices for DAMA MSc
+Exercises for DAMA MSc
